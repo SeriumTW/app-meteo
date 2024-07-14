@@ -1,7 +1,7 @@
 
 # Weather Forecast App
 
-![Weather Forecast App]([https://via.placeholder.com/800x400?text=Weather+Forecast+App](https://imgur.com/a/SSeuhJ2))
+![Weather Forecast App](https://i.imgur.com/hxGN3oJ.png)
 
 ## Sommario
 - [Descrizione](#descrizione)
