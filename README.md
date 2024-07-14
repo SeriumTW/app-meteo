@@ -1,7 +1,7 @@
-```markdown
+
 # Weather Forecast App
 
-![Weather Forecast App](https://via.placeholder.com/800x400?text=Weather+Forecast+App)
+![Weather Forecast App]([https://via.placeholder.com/800x400?text=Weather+Forecast+App](https://imgur.com/a/SSeuhJ2))
 
 ## Sommario
 - [Descrizione](#descrizione)
@@ -10,7 +10,6 @@
 - [Tecnologie Utilizzate](#tecnologie-utilizzate)
 - [Installazione](#installazione)
 - [Utilizzo](#utilizzo)
-- [Struttura del Progetto](#struttura-del-progetto)
 - [API Reference](#api-reference)
 - [Contribuire](#contribuire)
 - [Testing](#testing)
@@ -131,4 +130,3 @@ Link del progetto: [https://github.com/SeriumTW/weather-forecast-app](https://gi
 - [Create React App](https://create-react-app.dev/) per il boilerplate del progetto
 - Tutti i contributori che hanno partecipato a questo progetto
 
-```
